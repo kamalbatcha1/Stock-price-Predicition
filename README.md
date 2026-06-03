@@ -66,7 +66,7 @@ Technical indicators used:
 ---
 
 ## 📊 Results
-- Directional Accuracy: ~59%
+- Directional Accuracy: ~65%
 - Strategy Return: ~1.8x–2.0x
 - Market Return: ~2.0x+
 
