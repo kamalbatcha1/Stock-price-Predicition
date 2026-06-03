@@ -1,8 +1,16 @@
 __pycache__/
 *.pyc
+
+# models
 *.pkl
 *.pth
-*.ipynb_checkpoints/
+
+# notebooks
+.ipynb_checkpoints/
+
+# system
 .DS_Store
+
+# environment
 venv/
 .env
